@@ -1,0 +1,39 @@
+{
+  "name": "cordova-plugin-taffprint",
+  "version": "1.0.0",
+  "description": "A cordova plugin for Android to print text and images with Taffware Bluetooth POS printer.",
+  "cordova": {
+    "id": "cordova-plugin-taffprint",
+    "platforms": [
+	  "print",
+	  "printer",
+	  "POS",
+	  "bluetooth",
+      "ios",
+      "android",
+      "wp8"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temarogit/cordova-plugin-taffprint.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-wp8"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "c00 (https://github.com/c00)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c00/cordova-plugin-taffprint/issues"
+  },
+  "homepage": "https://github.com/c00/cordova-plugin-taffprint#readme"
+}
